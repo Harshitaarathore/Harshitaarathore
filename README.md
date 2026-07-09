@@ -57,6 +57,7 @@
 
 <h3 align="left">My LeetCode Badges:</h3>
 <p align="center">
+<img src="https://assets.leetcode.com/static_assets/others/100.gif" height="90" alt="100 Days Badge"/>
 <img src="https://assets.leetcode.com/static_assets/others/50.gif" height="90" alt="50 Days Badge"/>
 <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" height="90" alt="June Badge"/>
 <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" height="90" alt="May Badge"/>
