@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshita Rathore</h1>
 <h3 align="center">A passionate frontend developer from India, building clean and user-friendly web experiences.</h3>
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 - 🔭 I’m currently working on [Director's office Portal](https://github.com/Harshitaarathore/DOP-Portal-Final)
 
